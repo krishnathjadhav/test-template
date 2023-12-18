@@ -1,7 +1,7 @@
 {
   "name": "test-template",
   
-  "version": "0.1.0",
+  "version": "1.1.1",
   "description": "A simple template for a custom React component library",
   "scripts": {
     "rollup": "rollup -c",
